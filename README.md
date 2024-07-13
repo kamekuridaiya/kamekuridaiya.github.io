@@ -1,4 +1,4 @@
-## ストア
+## <img width="110" alt="noFilter" src="https://github.com/user-attachments/assets/58297369-9446-4ebd-b2bb-e4a69cd43916">ストア
 ・[亀栗大也](https://kamekuridaiya.github.io/kamekuridaiya/)
 
 ・[WSA with Gapps](https://kamekuridaiya.github.io/WSA-with-Gapps-Japanese/)
