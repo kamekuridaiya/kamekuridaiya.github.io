@@ -3,6 +3,8 @@
 
 ・[WSA with Gapps](https://kamekuridaiya.github.io/WSA-with-Gapps-Japanese/)
 
+・亀栗フォト(2024年7月27日公開予定)
+
 ・[WSL Linux GUI](https://kamekuridaiya.github.io/WSL-Linux-GUI/)
 
 [![Static Badge](https://img.shields.io/badge/%E4%BA%80%E6%A0%97%E5%A4%A7%E4%B9%9F-%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC-blue?logo=Github)](https://github.com/kamekuridaiya)
