@@ -3,7 +3,7 @@
 
 ・[WSA with Gapps](https://kamekuridaiya.github.io/WSA-with-Gapps-Japanese/)
 
-・亀栗フォト(2024年7月27日公開予定)
+・亀栗フォト(2024年8月6日公開予定)
 
 ・[WSL Linux GUI](https://kamekuridaiya.github.io/WSL-Linux-GUI/)
 
