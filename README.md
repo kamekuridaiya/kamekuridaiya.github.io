@@ -9,12 +9,11 @@
 
 [![Static Badge](https://img.shields.io/badge/%E4%BA%80%E6%A0%97%E5%A4%A7%E4%B9%9F-%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC-blue?logo=Github)](https://github.com/kamekuridaiya)
 ## お勧めのGithubで開発されたソフト
-・[![Static Badge](https://img.shields.io/badge/Magisk-white?logo=magisk)](https://topjohnwu.github.io/Magisk/)・・・Androidの裏側に潜入し、改造するソフト。
-
-・[![Static Badge](https://img.shields.io/badge/MCAddToJar-white)](https://kusaanko.github.io/OldMCPatcher/#:~:text=minecraft.client.OldMCPatcher-,MCAddToJar,-OldMCPatcher%E5%B0%8E%E5%85%A5%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88)・・・古いバージョンのMinecraftにMODを入れるソフト。[Minecraft Launcher](https://www.xbox.com/ja-JP/games/store/minecraft-launcher/9pgw18npbzv5?ocid=storeforweb)(Microsoftアカウントを持っていれば有料ではありません)が必要。
-
-・[![Static Badge](https://img.shields.io/badge/Electron%20Fiddle-white?logo=electronfiddle)](https://www.electronjs.org/ja/fiddle)・・・インターネットアプリを簡単に作れるソフト。パッケージの作成に[![Static Badge](https://img.shields.io/badge/Node.js-white?logo=nodedotjs)](https://nodejs.org/en)
-が必要。
+- [![Static Badge](https://img.shields.io/badge/Magisk-white?logo=magisk)](https://topjohnwu.github.io/Magisk/)・・・Androidの裏側に潜入し、改造するソフト。
+- [![Static Badge](https://img.shields.io/badge/Electron%20Fiddle-white?logo=electronfiddle)](https://www.electronjs.org/ja/fiddle)・・・インターネットアプリを簡単に作れるソフト。パッケージの作成に[![Static Badge](https://img.shields.io/badge/Node.js-white?logo=nodedotjs)](https://nodejs.org/en)が必要。
+- [MCAddToJar](https://kusaanko.github.io/OldMCPatcher/#:~:text=minecraft.client.OldMCPatcher-,MCAddToJar,-OldMCPatcher%E5%B0%8E%E5%85%A5%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88)・・・古いバージョンのMinecraftにMODを入れるソフト。[Minecraft Launcher](https://www.xbox.com/ja-JP/games/store/minecraft-launcher/9pgw18npbzv5?ocid=storeforweb)(Microsoftアカウントを持っていれば有料ではありません)が必要。
+- [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods/releases)・・・[![Static Badge](https://img.shields.io/badge/Google%20Pixel-white?logo=google)](https://store.google.com/jp/category/phones?hl=ja)のランチャーを改造するソフト。
+- [![Static Badge](https://img.shields.io/badge/shelds.io-black?logo=shieldsdotio)](https://shields.io/)・・・ウェブサイトのボタンが簡単に作れる。
 ## 使用したソフト
 ・[![Static Badge](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu)](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=ja-jp&gl=JP)
 
