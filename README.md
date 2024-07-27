@@ -1,9 +1,9 @@
-## <img width="110" alt="noFilter" src="https://github.com/user-attachments/assets/58297369-9446-4ebd-b2bb-e4a69cd43916">ストア
+## [<img width="110" alt="noFilter" src="https://github.com/user-attachments/assets/58297369-9446-4ebd-b2bb-e4a69cd43916">](https://daiya2024.blogspot.com/)ストア
 ・[亀栗大也](https://kamekuridaiya.github.io/kamekuridaiya/)
 
 ・[WSA with Gapps](https://kamekuridaiya.github.io/WSA-with-Gapps-Japanese/)
 
-・亀栗ドライブ(2024年8月6日公開予定)
+・[亀栗ドライブ](https://kamekuridaiya.github.io/kamekuridrive/)
 
 ・[WSL Linux GUI](https://kamekuridaiya.github.io/WSL-Linux-GUI/)
 
