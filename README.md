@@ -10,7 +10,7 @@
 - [![Static Badge](https://img.shields.io/badge/Electron%20Fiddle-white?logo=electronfiddle)](https://www.electronjs.org/ja/fiddle)・・・インターネットアプリを簡単に作れるソフト。パッケージの作成に[![Static Badge](https://img.shields.io/badge/Node.js-white?logo=nodedotjs)](https://nodejs.org/en)が必要。
 - [MCAddToJar](https://kusaanko.github.io/OldMCPatcher/#:~:text=minecraft.client.OldMCPatcher-,MCAddToJar,-OldMCPatcher%E5%B0%8E%E5%85%A5%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88)・・・古いバージョンのMinecraftにMODを入れるソフト。[Minecraft Launcher](https://www.xbox.com/ja-JP/games/store/minecraft-launcher/9pgw18npbzv5?ocid=storeforweb)(Microsoftアカウントを持っていれば有料ではありません)が必要。
 - [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods/releases)・・・[![Static Badge](https://img.shields.io/badge/Google%20Pixel-white?logo=google)](https://store.google.com/jp/category/phones?hl=ja)のランチャーを改造するソフト。
-- [![Static Badge](https://img.shields.io/badge/shelds.io-black?logo=shieldsdotio)](https://shields.io/)・・・ウェブサイトのボタンが簡単に作れる。
+- [![Static Badge](https://img.shields.io/badge/Shields.io-black?logo=shieldsdotio)](https://shields.io/)・・・ウェブサイトのボタンが簡単に作れる。
 ## 使用したソフト
 - [![Static Badge](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu)](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=ja-jp&gl=JP)
 - [![Static Badge](https://img.shields.io/badge/Git-white?logo=git)](https://git-scm.com/book/ja/v2/%E4%BD%BF%E3%81%84%E5%A7%8B%E3%82%81%E3%82%8B-Git%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
